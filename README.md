@@ -6,11 +6,9 @@ An interactive Power BI dashboard designed to analyze study patterns, productivi
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
-
 ![Screenshot 1](Screenshot%202026-05-16%20214010.png)
 
-![Screenshot 2](Screenshot 2026-05-16 222653.png)
+![Screenshot 2](Screenshot%202026-05-16%20222653.png)
 
 ---
 
