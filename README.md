@@ -83,7 +83,7 @@ This project demonstrates data analysis, visualization, and storytelling skills 
 Aspiring Data Analyst | BTech Data Science Student  
 Passionate about Data Analytics, Visualization & Building Insightful Dashboards  
 
-- GitHub: (https://github.com/RiyaBasera11/Time-Table-Analysis/new/main?filename=README.md)  
+- GitHub: (https://github.com/RiyaBasera11/Time-Table-Analysis)  
 - LinkedIn: (https://www.linkedin.com/in/riya-basera-487037291/)  
 
 ---
